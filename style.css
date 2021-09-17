@@ -1,0 +1,43 @@
+body
+    {
+        background-color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        background-image: url("kuromi_emo_girl.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+h1
+    {
+        text-align: center;
+        background-color: black;
+    }
+
+.col
+    {
+        background-color: deeppink;
+        border-style: solid;
+        border-width: medium;
+        border-color: black;
+        background-image: url("7489213.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 8px;
+    }
+
+.title
+    {
+        margin: 0;
+        line-height: 30px;
+    }
+
+.center
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
